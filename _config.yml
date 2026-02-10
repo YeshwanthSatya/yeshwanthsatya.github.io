@@ -1,0 +1,22 @@
+title: "Yeshwanth Satya Sri Avvaru"
+description: "Analyst • Portfolio"
+url: "https://yeshwanthsatya.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+minimal_mistakes_skin: "default"
+
+plugins:
+  - jekyll-include-cache
+
+markdown: kramdown
+highlighter: rouge
+
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Resume"
+    url: /resume/
+  - title: "Contact"
+    url: /contact/
